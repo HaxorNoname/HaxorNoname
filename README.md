@@ -1,5 +1,10 @@
-# <div align="center">DemonArmy501</div>
+### When The Galaxy..
+![GIF](https://raw.githubusercontent.com/oxygencall/oxygencall/main/GOH.gif)
+<hr />
 
-Hey there! Welcome to my GitHub profile.
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DemonArmy501&hide_border=true&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" align="right"><br/>
 
-![Demo](https://raw.githubusercontent.com/DemonArmy501/DemonArmy501/main/a.gif)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemonArmy501&layout=pie&hide_border=true&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" align="left">
+
+### Visitor count
+<img src="https://profile-counter.glitch.me/haxor-research/count.svg" />
