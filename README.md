@@ -1,10 +1,51 @@
-### When The Galaxy..
-![GIF](https://raw.githubusercontent.com/oxygencall/oxygencall/main/GOH.gif)
-<hr />
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dynamic Text Animation</title>
+<style>
+  body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .text-container {
+    text-align: center;
+    color: #333;
+  }
+  
+  .text {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    animation: animateText 5s infinite;
+  }
+  
+  @keyframes animateText {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+  }
+</style>
+</head>
+<body>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DemonArmy501&hide_border=true&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" align="right"><br/>
+<div class="text-container">
+  <div class="text">you known me?</div>
+  <div class="text">me known you</div>
+  <div class="text">haxor noname was here</div>
+  <div class="text">Leviathan Perfect Hunter 2024</div>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemonArmy501&layout=pie&hide_border=true&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" align="left">
+<script>
+  // Optionally, you can add JavaScript here for further interactions
+</script>
 
-### Visitor count
-<img src="https://profile-counter.glitch.me/haxor-research/count.svg" />
+</body>
+</html>
