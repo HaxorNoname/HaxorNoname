@@ -1,4 +1,4 @@
-# Hello, DemonArmy 👋
+# Hello, HaxorNoname 👋
 
 ```
             ( •_•)
@@ -24,7 +24,7 @@
 
 ## 🧠 About Me
 ```
-Name        : DemonArmy
+Name        : HaxorNoname
 Role        : Penetration Tester And Sometimes Vibe Coding Lol
 Skill       : Learn > Fail > Mentally Unstable > Learn Again
 Status      : Human (not a firewall yet)
@@ -50,11 +50,11 @@ Terminal    : zsh + tmux, karena multitasking itu seni
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DemonArmy501&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HaxorNoname&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemonArmy501&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaxorNoname&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DemonArmy501&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaxorNoname&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -84,7 +84,7 @@ Terminal    : zsh + tmux, karena multitasking itu seni
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DemonArmy501/DemonArmy501/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/HaxorNoname/HaxorNoname/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 > *Kalau snake-nya kosong, berarti gw lagi males commit (atau lupa setup GitHub Action-nya lol)*
@@ -95,18 +95,18 @@ Terminal    : zsh + tmux, karena multitasking itu seni
 
 <p align="center">
   <a href="https://github.com/DemonArmy501">
-    <img src="https://img.shields.io/badge/GitHub-DemonArmy501-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-HaxorNoname-181717?style=for-the-badge&logo=github" />
   </a>
 
 ---
 
 <p align="center">
   <i>"Stay curious, stay paranoid, and always backup your shit."</i><br/>
-  <sub>— DemonArmy, probably</sub>
+  <sub>— HaxorNoname, probably</sub>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DemonArmy501&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=HaxorNoname&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
 
 ```
